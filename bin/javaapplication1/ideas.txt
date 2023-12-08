@@ -1,0 +1,11 @@
+Add description to main page
+
+Seperate admin and user priveleges
+
+Add error messages when something fails
+    Pop up menus
+
+Add archive menus - for when a ticket is closed
+
+include date opened on view tickets, then date closed on close tickets
+
